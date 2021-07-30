@@ -1,0 +1,7 @@
+{
+  "name": "API MAPS",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
